@@ -10,7 +10,7 @@
 | Jon Clindaniel               | Won Je Yun              | Adam Wu                |
 | 1155 E. 60th Street, Rm. 215 |                         |                        |
 | jclindaniel@uchicago.edu     | wjy1993@uchicago.edu    | adamwu@uchicago.edu    |
-| **Office Hours:** [Schedule an Appointment][jon_oh] Tuesday 11:00am-1:00pm<br/><br/> Drop-In (No appointment needed): Tuesday 2:00-4:00pm | **Office Hours:** Monday, Wednesday 1:00-2:00 pm | **Office Hours:** Monday, Wednesday 3:15-4:15 pm | 
+| **Office Hours:** [Schedule an Appointment][jon_oh] Tuesday 11:00am-1:00pm<br/><br/> Drop-In (No appointment needed): Tuesday 2:00-4:00pm | **Office Hours:** Monday, Wednesday 1:00-2:00 pm, Rm 226-A| **Office Hours:** Monday, Wednesday 3:15-4:15 pm | 
 
 ## Course Information
 
