@@ -34,8 +34,9 @@ April 12, 2024</p>
 <p>In your bash shell/Terminal, run:</p>
 <pre data-role="codeBlock" data-info="" class="language-text"><code>$ conda create -n macs30123 python=3.9
 $ conda activate macs30123
-$ pip install awscli boto3 mrjob mysql-connector-python psycopg2
-</code></pre><h3 id="aws-configuration">AWS Configuration </h3>
+$ pip install awscli boto3 mrjob mysql-connector-python s3transfer==0.8.1 psycopg2
+</code></pre><p><em>Note: For Mac users, use <code>psychopg2-binary</code> for the last one instead.</em></p>
+<h3 id="aws-configuration">AWS Configuration </h3>
 <p>First initialize your AWS-CLI credentials by:</p>
 <pre data-role="codeBlock" data-info="" class="language-text"><code>$ aws configure
 </code></pre><p>Leave the access keys empty, and put default region as <code>us-east-1</code>, output as <code>json</code>.</p>
